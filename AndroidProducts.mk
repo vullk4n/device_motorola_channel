@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_channel.mk
+    $(LOCAL_DIR)/lineage_channel.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_channel-eng \
-    aosp_channel-user \
-    aosp_channel-userdebug
+    lineage_channel-eng \
+    lineage_channel-user \
+    lineage_channel-userdebug
